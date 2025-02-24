@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.kolaysoft.peyk",
+      "sha256_cert_fingerprints": [
+        "80:7B:9C:56:5F:16:A4:2F:1C:1C:81:A4:FD:17:B3:13:73:F3:58:94:A0:89:E7:F7:59:0C:6B:C4:46:EE:41:89"
+      ]
+    }
+  }
+]
