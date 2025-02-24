@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<project name="maven-antrun-" default="main"  >
-<target name="main">
-  <mkdir dir="/Users/alpenglow/softwareDevelopment/cfnProject/peyk-gateway/server/target/classes/static"/>
-  <copy todir="/Users/alpenglow/softwareDevelopment/cfnProject/peyk-gateway/server/target/classes/static">
-    <fileset includes="**/*" dir="/Users/alpenglow/softwareDevelopment/cfnProject/peyk-gateway/server/../client/build"/>
-  </copy>
-</target>
-</project>
